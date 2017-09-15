@@ -12,3 +12,5 @@
 
 ## Javascript
 
+* [js](javascript/js.md)
+
