@@ -21,7 +21,7 @@ console.log(typeof bar === "object");// true
 let bar = null;
 console.log(typeof bar === "object");// true
 ```
-因此我们需要西安判断是否为空
+因此我们需要首先判断是否为空
 ```
 let bar = null,a = {id:1},c = {},b;
 console.log(bar !== null && typeof bar === "object");// false
