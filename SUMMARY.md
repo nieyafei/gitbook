@@ -7,4 +7,5 @@
 * [javascript题解析](javascriptti-jie-xi.md)
   * [typeof bar潜在陷阱](javascriptti-jie-xi/mian-shi-ti-1.md)
 * [ES题解析](esti-jie-xi.md)
+* [前端综合](qian-duan-qi-ta.md)
 
