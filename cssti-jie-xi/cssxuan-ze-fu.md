@@ -5,6 +5,7 @@
 选择器查看:[CSS选择器](http://www.w3school.com.cn/cssref/css_selectors.asp)
 
 ## 属性的继承
+> 继承：html元素可以从父元素那里继承一部分css属性，即使当前元素没有定义该属性。
 
 - ### 无继承性的属性
 
