@@ -8,7 +8,7 @@
 > - HTML 使用标记标签来描述网页
 
 ### 什么是XHTML?
-> XHTML 是更严谨更纯净的 HTML 版本。
+> XHTML 是更严谨更纯净的 HTML 版本。****
 > - XHTML 指可扩展超文本标签语言（EXtensible HyperText Markup Language）。
 > - XHTML 的目标是取代 HTML。
 > - XHTML 与 HTML 4.01 几乎是相同的。
