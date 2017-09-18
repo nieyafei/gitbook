@@ -110,4 +110,4 @@
 
 - ### 块级元素可以继承的属性
 
-> 1、text-indent、text-align
+> text-indent、text-align
