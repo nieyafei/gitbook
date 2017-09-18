@@ -1,4 +1,5 @@
 # Doctype的文档类型
+
 ## Doctype作用? 严格模式与混杂模式如何区分？有何意义？
 > - <!DOCTYPE> 声明必须是 HTML 文档的第一行，位于 <html> 标签之前.
 > - <!DOCTYPE> 声明不是 HTML 标签；它是指示 web 浏览器关于页面使用哪个 HTML 版本进行编写的指令。
