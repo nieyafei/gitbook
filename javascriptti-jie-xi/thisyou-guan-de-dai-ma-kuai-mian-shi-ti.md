@@ -29,4 +29,4 @@ inner func:  self.foo = bar
 
 ```
 
-
+在外部函数func中的，this指向的对象是myObject,因此self也指向this
