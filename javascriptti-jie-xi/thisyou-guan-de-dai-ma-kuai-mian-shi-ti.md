@@ -1,6 +1,7 @@
 下面的代码块输出到控制台的结果是什么，为什么？
 
 ```
+
 var myObject = {
     foo: "bar",
     func: function() {
