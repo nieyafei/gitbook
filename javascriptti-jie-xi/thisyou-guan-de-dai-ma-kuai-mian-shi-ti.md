@@ -1,5 +1,6 @@
 下面的代码块输出到控制台的结果是什么，为什么？
 
+
 ```
 
 var myObject = {
@@ -17,3 +18,15 @@ var myObject = {
 myObject.func();
 
 ```
+
+输出结果如下：
+
+```
+outer func:  this.foo = bar
+outer func:  self.foo = bar
+inner func:  this.foo = undefined
+inner func:  self.foo = bar
+
+```
+
+
