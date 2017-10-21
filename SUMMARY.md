@@ -11,6 +11,7 @@
   * [typeof bar潜在陷阱](javascriptti-jie-xi/mian-shi-ti-1.md)
   * [this有关面试题](javascriptti-jie-xi/thismian-shi-ti.md)
     * [代码块面试题1](javascriptti-jie-xi/thisyou-guan-de-dai-ma-kuai-mian-shi-ti.md)
+    * [代码块面试题2](javascriptti-jie-xi/dai-ma-kuai-mian-shi-ti-2.md)
 * [ES题解析](esti-jie-xi.md)
 * [前端综合](qian-duan-qi-ta.md)
 
