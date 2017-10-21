@@ -14,7 +14,6 @@ var obj = {
 num = 888;
 obj.inner.print();
 var fn = obj.inner.print;
-console.log(typeof(fn));
 fn();
 (obj.inner.print)(); 
 (obj.inner.print = obj.inner.print)(); 
