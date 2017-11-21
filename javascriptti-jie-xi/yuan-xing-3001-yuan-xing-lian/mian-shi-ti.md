@@ -37,4 +37,17 @@ Array.__proto__：原型指向了Object
 > js中变量的作用域链与定义时的环境有关，与执行时无关。执行环境只会改变this、传递的参数、全局变量等
 预编译的时候，window环境有{a:3,c:function...},执行的时候，执行functon() 有个{a:4},c()执行，因为其本身无a,因此调用最外面的window.a
 
+如果想打出4的话，需要改一下
+
+```
+var a=3;
+ function c(a){
+    console.log(a);
+ }
+ (function(){
+  var a=4;
+  c(a);
+ })();
+
+```
 
