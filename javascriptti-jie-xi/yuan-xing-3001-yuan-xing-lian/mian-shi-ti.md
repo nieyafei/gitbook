@@ -53,4 +53,50 @@ var a=3;
  })();
 
 ```
+> 结果是 4
+
+我们来改一下
+
+```
+
+var a=3;
+ function c(a){
+    var a = 6;
+    console.log(a);
+ }
+ (function(){
+  var a=4;
+  c(a);
+ })();
+
+
+```
+> 结果是 6
+
+下面来测试一下各个环境的a的值
+
+```
+
+var a=1;
+ function c(a){
+    var a = 6;
+    console.log(a);
+ }
+ (function(){
+  a++;
+  var a=4;
+  console.log(a);
+  c(a);
+ })();
+ console.log(a);
+
+```
+>  结果是 4    6     1
+
+
+
+
+
+
+
 
