@@ -20,6 +20,7 @@ Array.__proto__：原型指向了Object
 ## 代码块题
 
 ```
+
  var a=3;
  function c(){
     console.log(a);
@@ -29,6 +30,7 @@ Array.__proto__：原型指向了Object
   c();
  })();
  // 立即执行闭包
+ 
 ```
 > 结果是 3
 
@@ -40,6 +42,7 @@ Array.__proto__：原型指向了Object
 如果想打出4的话，需要改一下
 
 ```
+
 var a=3;
  function c(a){
     console.log(a);
