@@ -18,7 +18,6 @@ Array.__proto__：原型指向了Object
 
 
 ## 代码块题
-
 ```
 var a=3;
  function c(){
@@ -29,3 +28,4 @@ var a=3;
   c();
  })();
 ```
+
