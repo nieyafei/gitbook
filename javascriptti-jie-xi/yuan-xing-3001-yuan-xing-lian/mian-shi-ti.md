@@ -22,7 +22,7 @@ Array.__proto__：原型指向了Object
 ```
  var a=3;
  function c(){
-    alert(a);
+    console.log(a);
  }
  (function(){
   var a=4;
@@ -30,4 +30,7 @@ Array.__proto__：原型指向了Object
  })();
  // 立即执行闭包
 ```
+> 结果是 3
+
+
 
