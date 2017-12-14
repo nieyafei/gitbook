@@ -21,3 +21,14 @@
 
 # 结果：object
 ```
+
+# 3. 代码题目
+
+```
+
+var h = function a(){
+	return 23;
+}
+console.log(typeof a());
+
+```
