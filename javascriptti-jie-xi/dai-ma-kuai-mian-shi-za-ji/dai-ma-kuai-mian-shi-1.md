@@ -33,7 +33,7 @@ console.log(typeof a());
 
 ```
 
-4. typeof题目
+# 4. typeof题目
 
 ```
 
