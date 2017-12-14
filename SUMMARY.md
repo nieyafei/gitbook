@@ -19,6 +19,8 @@
     * [作用域面试题1](javascriptti-jie-xi/yuan-xing-3001-yuan-xing-lian/dai-ma-kuai-mian-shi-ti-3.md)
   * [数组](javascriptti-jie-xi/shu-zu.md)
     * [面试题1](javascriptti-jie-xi/shu-zu/mian-shi-ti-1.md)
+  * [代码块面试杂集](javascriptti-jie-xi/dai-ma-kuai-mian-shi-za-ji.md)
+    * [代码块面试1](javascriptti-jie-xi/dai-ma-kuai-mian-shi-za-ji/dai-ma-kuai-mian-shi-1.md)
 * [ES题解析](esti-jie-xi.md)
 * [前端综合](qian-duan-qi-ta.md)
 
