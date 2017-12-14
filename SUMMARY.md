@@ -17,6 +17,7 @@
     * [代码块面试题1](javascriptti-jie-xi/yuan-xing-3001-yuan-xing-lian/mian-shi-ti.md)
     * [代码块面试题2](javascriptti-jie-xi/yuan-xing-3001-yuan-xing-lian/dai-ma-kuai-mian-shi-ti-2.md)
     * [作用域面试题3](javascriptti-jie-xi/yuan-xing-3001-yuan-xing-lian/dai-ma-kuai-mian-shi-ti-3.md)
+    * [创建“内置”方法](javascriptti-jie-xi/yuan-xing-3001-yuan-xing-lian/chuang-jian-201c-nei-zhi-201d-fang-fa.md)
   * [数组](javascriptti-jie-xi/shu-zu.md)
     * [面试题1](javascriptti-jie-xi/shu-zu/mian-shi-ti-1.md)
   * [代码块面试杂集](javascriptti-jie-xi/dai-ma-kuai-mian-shi-za-ji.md)
