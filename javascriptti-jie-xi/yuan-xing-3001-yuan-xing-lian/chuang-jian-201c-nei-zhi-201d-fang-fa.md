@@ -18,6 +18,7 @@ String.prototype.repeatify = String.prototype.repeatify || function(numbers){
 ```
 
 - 数组转换
+
 ```
 
 String.prototype.repeatify = String.prototype.repeatify || function(numbers){
