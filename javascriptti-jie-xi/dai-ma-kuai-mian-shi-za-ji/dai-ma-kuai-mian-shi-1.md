@@ -19,5 +19,5 @@
 	console.log(typeof arguments)
 })()
 
-# object
+# 结果：object
 ```
