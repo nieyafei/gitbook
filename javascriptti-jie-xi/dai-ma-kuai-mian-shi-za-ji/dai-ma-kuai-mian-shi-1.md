@@ -32,3 +32,45 @@ var h = function a(){
 console.log(typeof a());
 
 ```
+
+4. typeof题目
+
+```
+
+var x = 1;
+if(function f(){}){
+	x +=typeof f;
+}
+console.log(x);
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
