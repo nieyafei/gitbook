@@ -10,3 +10,14 @@
 })(1)
 
 ```
+
+# 2. typeof
+
+```
+
+(function(){
+	console.log(typeof arguments)
+})()
+
+# object
+```
