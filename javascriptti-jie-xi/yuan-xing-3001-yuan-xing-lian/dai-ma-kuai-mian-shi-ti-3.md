@@ -69,5 +69,6 @@ console.log(b);
 ```
 > 结果是 5
 
+**此题如果严格模式下是：Uncaught ReferenceError: b is not defined**
 
 
