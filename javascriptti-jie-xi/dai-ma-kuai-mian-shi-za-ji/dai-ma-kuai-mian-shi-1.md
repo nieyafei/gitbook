@@ -43,6 +43,9 @@ if(function f(){}){
 }
 console.log(x);
 
+
+# 1undefined
+
 ```
 
 
