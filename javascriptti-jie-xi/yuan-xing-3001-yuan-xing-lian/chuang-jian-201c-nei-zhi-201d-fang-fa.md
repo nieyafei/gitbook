@@ -5,6 +5,7 @@
 **解析：**
 
 - 最简单的遍历执行
+
 ```
 
 String.prototype.repeatify = String.prototype.repeatify || function(numbers){
@@ -28,3 +29,8 @@ String.prototype.repeatify = String.prototype.repeatify || function(numbers){
 }
 
 ```
+
+**执行**
+
+> console.log("nihao".repeatify(3));
+结果：nihaonihaonihao
