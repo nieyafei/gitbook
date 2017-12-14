@@ -17,3 +17,5 @@ function test(){
 test();
 
 ```
+
+> 结果：obj
