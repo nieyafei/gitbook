@@ -40,3 +40,7 @@ String.prototype.repeatify = String.prototype.repeatify || function(numbers){
 String.prototype.repeatify = String.prototype.repeatify || function(numbers){}
 // 避免重写已经定义了的方法
 ```
+
+
+
+
