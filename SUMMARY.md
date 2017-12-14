@@ -23,6 +23,7 @@
   * [代码块面试杂集](javascriptti-jie-xi/dai-ma-kuai-mian-shi-za-ji.md)
     * [代码块面试1](javascriptti-jie-xi/dai-ma-kuai-mian-shi-za-ji/dai-ma-kuai-mian-shi-1.md)
     * [代码块面试2](javascriptti-jie-xi/dai-ma-kuai-mian-shi-za-ji/dai-ma-kuai-mian-shi-2.md)
+    * [关于NaN](javascriptti-jie-xi/dai-ma-kuai-mian-shi-za-ji/guan-yu-nan.md)
   * [call\(\)、apply\(\)、bind\(\)面试题](javascriptti-jie-xi/callapplybind.md)
 * [ES题解析](esti-jie-xi.md)
 * [前端综合](qian-duan-qi-ta.md)
