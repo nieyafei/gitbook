@@ -44,7 +44,7 @@ if(function f(){}){
 console.log(x);
 
 
-# 1undefined
+# 结果 1undefined
 
 ```
 
