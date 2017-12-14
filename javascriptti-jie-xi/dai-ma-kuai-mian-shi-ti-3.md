@@ -1,5 +1,7 @@
 # 代码块面试题3 **☆**
 
+## 代码块
+
 ```
 function Person(name, age, sex) {
 	var a = 0;// 私有化变量
@@ -27,3 +29,27 @@ oPersopn1.say();//
 1    2    1
 
 ```
+
+## 代码块
+
+```
+
+var fullName = "alibaba";
+var obj = {
+	fullName:"baidu",
+	prop:{
+		fullName:"tengxun",
+		getFullName: function(){
+			return this.fullName;
+		}
+	}
+}
+console.log(obj.prop.getFullName());// tengxun
+var test = obj.prop.getFullName;
+console.log(test());
+
+```
+> 结果： tengxun   alibaba
+
+
+
