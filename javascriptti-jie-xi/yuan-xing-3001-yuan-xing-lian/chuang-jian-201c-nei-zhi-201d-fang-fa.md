@@ -34,3 +34,9 @@ String.prototype.repeatify = String.prototype.repeatify || function(numbers){
 
 > console.log("nihao".repeatify(3));
 结果：nihaonihaonihao
+
+**注意：**
+```
+String.prototype.repeatify = String.prototype.repeatify || function(numbers){}
+// 避免重写已经定义了的方法
+```
