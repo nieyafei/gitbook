@@ -67,6 +67,7 @@ var a = b = 5;
 console.log(b);
 
 ```
+> 结果是 5
 
 
 
