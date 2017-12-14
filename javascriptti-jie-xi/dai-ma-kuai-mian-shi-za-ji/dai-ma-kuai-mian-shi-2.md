@@ -23,4 +23,6 @@ function foo2()
 
 **结果：返回结果不一样**
 
+> 返回结果： Object    undefined
+
 
