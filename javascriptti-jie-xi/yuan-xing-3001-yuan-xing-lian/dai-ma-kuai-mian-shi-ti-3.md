@@ -54,7 +54,19 @@ console.log(test(true));
 > 结果是 local
 
 
+## 代码块
 
+```
+
+(function() {
+ 
+var a = b = 5;
+ 
+})();
+ 
+console.log(b);
+
+```
 
 
 
