@@ -1,4 +1,4 @@
-# 代码块面试题3
+# 代码块面试题3 **☆**
 
 ```
 function Person(name, age, sex) {
