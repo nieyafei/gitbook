@@ -24,4 +24,5 @@
 ```
 var reg = /(?=(\b)(\d{3})+$)/g;
 var str = "1000000000";
+str.replace(reg,".");
 ```
