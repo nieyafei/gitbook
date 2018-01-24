@@ -35,7 +35,7 @@ new(test.init())();
 this.a = 20;
 var test = {
 	a:40,
-	init:()=>{
+	init:()=>{// 箭头函数
 		console.log(this.a);
 		function go(){
 			//this.a = 60;
