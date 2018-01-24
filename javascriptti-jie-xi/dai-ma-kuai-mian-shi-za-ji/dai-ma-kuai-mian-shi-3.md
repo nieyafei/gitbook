@@ -19,3 +19,16 @@ test();
 ```
 
 > 结果：obj
+
+
+## 代码块
+
+```
+var a = 25;
+(function(){
+	console.log(a);
+	var a = 30;
+}())
+```
+
+> 结果：undefined
