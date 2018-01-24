@@ -13,6 +13,7 @@
     * [代码块面试题1](javascriptti-jie-xi/thisyou-guan-de-dai-ma-kuai-mian-shi-ti.md)
     * [代码块面试题2](javascriptti-jie-xi/dai-ma-kuai-mian-shi-ti-2.md)
     * [代码块面试题3](javascriptti-jie-xi/dai-ma-kuai-mian-shi-ti-3.md)
+    * [代码块面试题4](javascriptti-jie-xi/dai-ma-kuai-mian-shi-4.md)
   * [原型、原型链、继承、作用域](javascriptti-jie-xi/yuan-xing-3001-yuan-xing-lian.md)
     * [代码块面试题1](javascriptti-jie-xi/yuan-xing-3001-yuan-xing-lian/mian-shi-ti.md)
     * [代码块面试题2](javascriptti-jie-xi/yuan-xing-3001-yuan-xing-lian/dai-ma-kuai-mian-shi-ti-2.md)
