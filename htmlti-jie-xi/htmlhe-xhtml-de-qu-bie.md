@@ -1,4 +1,4 @@
-# HTML和XHTML的区别 ☆
+# 1、HTML和XHTML的区别 ☆
 
 ### 什么是HTML?
 > Html是用来描述网页的一种语言，是一切网页的基础。
