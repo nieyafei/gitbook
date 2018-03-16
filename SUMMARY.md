@@ -5,6 +5,7 @@
   * [HTML和XHTML的区别](htmlti-jie-xi/htmlhe-xhtml-de-qu-bie.md)
   * [Doctype的文档类型](htmlti-jie-xi/doctypede-wen-dang-lei-xing.md)
   * [Html的语义化](htmlti-jie-xi/htmlde-yu-yi-hua.md)
+  * [cookie、sessionStorage和localStorage的区别](htmlti-jie-xi/cookiesessionstoragehe-localstorage-de-qu-bie.md)
 * [CSS面试题](cssti-jie-xi.md)
   * [CSS选择器](cssti-jie-xi/cssxuan-ze-fu.md)
 * [Javascript面试题](javascriptti-jie-xi.md)
