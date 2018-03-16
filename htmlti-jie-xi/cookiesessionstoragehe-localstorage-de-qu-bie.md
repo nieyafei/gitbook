@@ -12,3 +12,5 @@
 |容量（每个域名）|4kb|5MB|5MB|
 |访问权限|任意窗口|任意窗口|当前页面窗口|
 
+**资料链接**
+[来源链接](https://github.com/yangshun/front-end-interview-handbook/blob/master/Translations/Chinese/README.md)
